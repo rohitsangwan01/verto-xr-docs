@@ -30,5 +30,5 @@ TODO:
 
 ## Need Help?
 
-- Join our [Discord community](https://discord.gg/verto-xr)
-- Check out our [GitHub repository](https://github.com/verto-xr)
+- Join our [Discord community](https://discord.gg/pmAErJmGk5)
+- Check out our [GitHub repository](https://github.com/rohitsangwan01/Verto_XR)

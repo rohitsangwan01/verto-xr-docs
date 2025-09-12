@@ -25,7 +25,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/rohitsangwan01/verto-xr-docs/tree/main/",
+          editUrl: "https://github.com/rohitsangwan01/verto-xr-docs/",
         },
         blog: false,
         theme: {
@@ -50,7 +50,7 @@ const config: Config = {
           label: "Documentation",
         },
         {
-          href: "https://github.com/rohitsangwan01/verto-xr-docs",
+          href: "https://github.com/rohitsangwan01/Verto_XR",
           label: "GitHub",
           position: "right",
         },
@@ -77,15 +77,11 @@ const config: Config = {
           items: [
             {
               label: "Discord",
-              href: "https://discord.gg/verto-xr",
+              href: "https://discord.gg/pmAErJmGk5",
             },
             {
               label: "GitHub",
-              href: "https://github.com/verto-xr",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/verto_xr",
+              href: "https://github.com/rohitsangwan01/Verto_XR",
             },
           ],
         },
@@ -94,11 +90,11 @@ const config: Config = {
           items: [
             {
               label: "Website",
-              href: "https://verto-xr.com",
+              href: "https://vertoxr.com",
             },
             {
               label: "GitHub",
-              href: "https://github.com/verto-xr",
+              href: "https://github.com/rohitsangwan01/Verto_XR",
             },
           ],
         },
