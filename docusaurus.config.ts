@@ -25,7 +25,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/rohitsangwan01/verto-xr-docs/",
+          editUrl: "https://github.com/rohitsangwan01/verto-xr-docs/tree/main/",
         },
         blog: false,
         theme: {

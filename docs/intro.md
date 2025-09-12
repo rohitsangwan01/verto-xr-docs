@@ -1,10 +1,11 @@
 ---
+title: Welcome to VertoXR
 sidebar_position: 1
 ---
 
 # Welcome to VertoXR
 
-Welcome to the **VertoXR Documentation**! VertoXR is a powerful app for immersive XR (Extended Reality) experiences
+Welcome to the **VertoXR**! VertoXR is a powerful app for immersive XR (Extended Reality) experiences
 
 ## What is VertoXR?
 

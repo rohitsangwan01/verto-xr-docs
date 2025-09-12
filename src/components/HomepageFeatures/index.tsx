@@ -11,12 +11,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Immersive XR Development',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Multi-Desktop Management',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Build cutting-edge VR and AR experiences with VertoXR's powerful
-        development platform and comprehensive SDK.
+        Effortlessly switch between multiple virtual desktops, expanding your workspace beyond physical screens.
       </>
     ),
   },
@@ -25,18 +24,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Deploy your XR applications across multiple platforms including VR headsets,
-        AR glasses, and mobile devices with a single codebase.
+        Fully supports MacOS, Windows and Linux, giving you a seamless remote desktop experience on your AR glasses.
       </>
     ),
   },
   {
-    title: 'Developer-Friendly',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Blazing-Fast Performance',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Get started quickly with our intuitive APIs, extensive documentation,
-        and active community support.
+        Built with Rust for lightning-fast speed, low latency, and an ultra-smooth AR experience.
       </>
     ),
   },
