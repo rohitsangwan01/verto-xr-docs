@@ -66,10 +66,6 @@ const config: Config = {
               label: "Getting Started",
               to: "/docs/intro",
             },
-            {
-              label: "API Reference",
-              to: "/docs/api",
-            },
           ],
         },
         {

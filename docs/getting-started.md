@@ -14,6 +14,4 @@ TODO:
 
 ## Next Steps
 
-- [API Reference](./api) - Learn about VertoXR's APIs
-- [Examples](./examples) - Explore sample projects
-- [Deployment](./deployment) - Deploy your XR application
+TODO:
