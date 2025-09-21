@@ -21,13 +21,16 @@ const config: Config = {
   },
   presets: [
     [
-      "classic",
+      "@docusaurus/preset-classic",
       {
         docs: {
           sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/rohitsangwan01/verto-xr-docs/tree/main/",
         },
-        blog: false,
+        blog: {
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -38,16 +41,17 @@ const config: Config = {
     image: "img/verto-xr-social-card.jpg",
     navbar: {
       title: "VertoXR",
-      // logo: {
-      //   alt: "VertoXR Logo",
-      //   src: "./img/logo.png",
-      // },
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "docSidebar",
           position: "left",
           label: "Documentation",
+        },
+        {
+          to: "blog",
+          label: "Blog",
+          position: "left",
         },
         {
           href: "https://github.com/rohitsangwan01/Verto_XR",
