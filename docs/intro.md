@@ -2,7 +2,6 @@
 title: Welcome to VertoXR
 sidebar_position: 1
 ---
-
 # Welcome to VertoXR
 
 Welcome to **VertoXR** - the revolutionary AR glasses software that transforms your augmented reality glasses into a powerhouse of efficiency, smart, customizable and immersive workstation. Work anywhere, anytime with cutting-edge spatial computing technology.
@@ -35,33 +34,13 @@ Built with Rust for lightning-fast speed, low latency, and an ultra-smooth AR ex
 
 Navigate your virtual workspace with natural hand gestures. Move, resize, and interact with windows using intuitive controls designed for spatial computing.
 
-## Supported AR Glasses
-
-VertoXR works seamlessly with leading AR glasses manufacturers:
-
-### XREAL
-
-- One, One Pro
-- Air, Air 2, Air 2 Pro, Air 2 Ultra
-- Light, Light Pro
-
-### VITURE
-
-- One, One Lite, One Pro
-- Luma, Luma Pro
-
-### Coming Soon
-
-- **Rokid**: Air, Max, Max 2
-- **RayNeo**: Air 2, Air 2s, Air 3s, Air 3s Pro
-
 ## Quick Start
 
 ### Prerequisites
 
-- Compatible AR glasses (see supported models above)
-- macOS or Windows operating system
-- Minimum system requirements (detailed in [Getting Started Guide](./getting-started))
+* Compatible AR glasses (see supported models above)
+* macOS or Windows operating system
+* Minimum system requirements (detailed in [Getting Started Guide](./getting-started))
 
 ### Installation
 
@@ -75,9 +54,9 @@ For detailed setup instructions, see our [Getting Started Guide](./getting-start
 
 ## Next Steps
 
-- [Getting Started Guide](./getting-started) - Detailed setup instructions
+* [Getting Started Guide](./getting-started) - Detailed setup instructions
 
 ## Need Help?
 
-- Join our [Discord community](https://discord.gg/pmAErJmGk5)
-- Check out our [GitHub repository](https://github.com/rohitsangwan01/Verto_XR)
+* Join our [Discord community](https://discord.gg/pmAErJmGk5)
+* Check out our [GitHub repository](https://github.com/rohitsangwan01/Verto_XR)
