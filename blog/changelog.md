@@ -44,6 +44,8 @@ hide_table_of_contents: false
 - Send mouse to actual clicked position in display if possible
 - Minor fixes and improvements
 
+---
+
 ## 0.0.4
 
 #### AR Glasses Support:
@@ -75,5 +77,3 @@ hide_table_of_contents: false
 #### Seamless Updates:
 
 - Built-in updater — no more manual downloads.
-
-#### Bug Fixes and many more improvements, and features have been added.
