@@ -8,23 +8,9 @@ sidebar_position: 3
 <details>
 <summary>Black screen with small image in the upper-left hand corner</summary>
 
-If you see a blank screen with a small image in the upper-left hand corner, this means that the AR Space is working, but there might be an issue with the capture/render process leaving the screen to remain blank.
+If you see a blank screen with a small image in the upper-left hand corner, this means that the AR Space is working, but there might be an issue with the capture/render process leaving the screen to remain blank. try to change the Capture Resolution from VertoXR app ( expand the tile from Custom display setup )
 
-This issue may be seen on both Windows and Mac OS (Intel / Apple Silicon) but have different workarounds.
-
-**Symptoms:**
-
-- Blank/black screen
-- Small image visible in the upper-left corner
-- AR Space appears to be functioning
-
-**Platforms affected:**
-
-- Windows
-- Mac OS (Intel)
-- Mac OS (Apple Silicon)
-
-**Note:** This is a known issue with different workarounds available depending on your operating system.
+Or make sure displays are not floating around out of your view, try recenter by pressing `R` in arSpace, or move around your head
 
 </details>
 
@@ -46,13 +32,6 @@ In case you are not able to access it, here are the file paths using the built-i
 ```
 /Users/${USER}/Library/Application Support/verto_xr/logs
 ```
-
-**Steps to access logs:**
-
-1. Open VertoXR application
-2. Click the COG (settings) button
-3. Click the BUG button that appears
-4. This will open the logs directory in your file explorer
 
 </details>
 
