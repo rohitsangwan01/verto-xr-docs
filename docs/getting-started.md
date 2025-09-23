@@ -125,9 +125,13 @@ Adjust keybindings for Global and Input accordingly, Global keybindings are for 
 - **Exit Display**: Use `Middle mouse button` or keyboard shortcut to bring your cursor back to ArSpace
 - **Enter another display**: bring your cursor back to ArSpace and enter in another display, or try to use `Sync Displays` from ArSpace menu to arrange displays in proper order and move cursor between them ( This might not work as expected if displays not arranged properly )
 - **Reset Displays** Click `Reset Displays` from ArSpace menu to rearrange all the displays properly
+- **Recenter Displays** Press `R` keyboard key in ArSpace to recenter the displays 
 
 After Manipulating displays and arranging your setup properly, you can save the setup layout from ArSpace menu to reuse that for next time
 
 ## Next Steps
 
-App is still in development, checkout [Faq](/docs/faq.md) for more info, or contact us on Discord
+- Check [Device Configuration](./device_config) for device specific setup
+- Join our [Discord community](https://discord.gg/pmAErJmGk5) for real-time support
+- Check our [FAQ section](./faq) for additional troubleshooting
+- Visit our [GitHub repository](https://github.com/rohitsangwan01/Verto_XR) to report issues
